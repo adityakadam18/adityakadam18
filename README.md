@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aditya Kadam and I'm am from Pune, Maharashtra.</p>
+<p align="left">My name is Aditya Kadam and I'm from Pune, Maharashtra.</p>
 
 ###
 
